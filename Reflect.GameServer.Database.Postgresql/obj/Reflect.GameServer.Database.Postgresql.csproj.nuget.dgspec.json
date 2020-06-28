@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Database.Postgresql\\Reflect.GameServer.Database.Postgresql.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Data.Models\\Reflect.GameServer.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Data.Models\\Reflect.GameServer.Data.Models.csproj",
+        "projectName": "Reflect.GameServer.Data.Models",
+        "projectPath": "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Data.Models\\Reflect.GameServer.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\firat\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\VistaDB 6.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Gibraltar Software\\VistaDB 6\\Packages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Database.Postgresql\\Reflect.GameServer.Database.Postgresql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Database.Postgresql\\Reflect.GameServer.Database.Postgresql.csproj",
+        "projectName": "Reflect.GameServer.Database.Postgresql",
+        "projectPath": "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Database.Postgresql\\Reflect.GameServer.Database.Postgresql.csproj",
+        "packagesPath": "C:\\Users\\firat\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Database.Postgresql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\VistaDB 6.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Gibraltar Software\\VistaDB 6\\Packages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Data.Models\\Reflect.GameServer.Data.Models.csproj": {
+                "projectPath": "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Data.Models\\Reflect.GameServer.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Npgsql.Json.NET": {
+              "target": "Package",
+              "version": "[4.1.3, )"
+            },
+            "linq2db.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.9.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

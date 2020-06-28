@@ -1,0 +1,12 @@
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\bin\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.deps.json
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\bin\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\bin\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.pdb
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\bin\Debug\netcoreapp3.1\Reflect.GameServer.Data.Models.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\bin\Debug\netcoreapp3.1\Reflect.GameServer.Data.Models.pdb
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.csprojAssemblyReference.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.AssemblyInfoInputs.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.AssemblyInfo.cs
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.csproj.CoreCompileInputs.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.csproj.CopyComplete
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Postgresql\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Postgresql.pdb

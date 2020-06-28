@@ -1,0 +1,12 @@
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\bin\Debug\netcoreapp3.1\Reflect.GameServer.Library.deps.json
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\bin\Debug\netcoreapp3.1\Reflect.GameServer.Library.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\bin\Debug\netcoreapp3.1\Reflect.GameServer.Library.pdb
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\bin\Debug\netcoreapp3.1\Reflect.GameServer.Data.Models.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\bin\Debug\netcoreapp3.1\Reflect.GameServer.Data.Models.pdb
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\obj\Debug\netcoreapp3.1\Reflect.GameServer.Library.csprojAssemblyReference.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\obj\Debug\netcoreapp3.1\Reflect.GameServer.Library.AssemblyInfoInputs.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\obj\Debug\netcoreapp3.1\Reflect.GameServer.Library.AssemblyInfo.cs
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\obj\Debug\netcoreapp3.1\Reflect.GameServer.Library.csproj.CoreCompileInputs.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\obj\Debug\netcoreapp3.1\Reflect.GameServer.Library.csproj.CopyComplete
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\obj\Debug\netcoreapp3.1\Reflect.GameServer.Library.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Library\obj\Debug\netcoreapp3.1\Reflect.GameServer.Library.pdb

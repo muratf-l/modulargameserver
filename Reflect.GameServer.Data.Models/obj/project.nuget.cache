@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6GVCOwWfyB8cUNFXRG80w1fAGtJgd6ywNoTc5p0aIKf2U0zJgoGqj35O6/kI9TeG3jEq57oOhDHwuXfuSp+Ew==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\_git\\modulargameserver\\Reflect.GameServer.Data.Models\\Reflect.GameServer.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firat\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

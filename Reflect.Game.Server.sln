@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflect.GameServer", "Reflect.Game.Server\Reflect.GameServer.csproj", "{80BB1BF1-9B67-4A88-BCD8-D33E936FBBBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflect.Game.Ludo.Engine", "Reflect.Game.Ludo.Engine\Reflect.Game.Ludo.Engine.csproj", "{F911003F-ED69-4BE4-8B29-0AFEADF3CF97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflect.GameServer.Library", "Reflect.GameServer.Library\Reflect.GameServer.Library.csproj", "{BAF34734-8C21-4BC6-9D8C-D75FA8525F08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{044A92A8-DAC9-4DB0-96EA-EF2E46E1B7CC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{CBE49334-5945-4B41-A923-E3B441B96C40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflect.GameServer.Data.Models", "Reflect.GameServer.Data.Models\Reflect.GameServer.Data.Models.csproj", "{B106DEB1-0251-47F3-A9B8-EAB854F242F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflect.GameServer.Database.Postgresql", "Reflect.GameServer.Database.Postgresql\Reflect.GameServer.Database.Postgresql.csproj", "{DBB19A36-D460-4DC3-90D8-6E18E22E4CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BB1BF1-9B67-4A88-BCD8-D33E936FBBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BB1BF1-9B67-4A88-BCD8-D33E936FBBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BB1BF1-9B67-4A88-BCD8-D33E936FBBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BB1BF1-9B67-4A88-BCD8-D33E936FBBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F911003F-ED69-4BE4-8B29-0AFEADF3CF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F911003F-ED69-4BE4-8B29-0AFEADF3CF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F911003F-ED69-4BE4-8B29-0AFEADF3CF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F911003F-ED69-4BE4-8B29-0AFEADF3CF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF34734-8C21-4BC6-9D8C-D75FA8525F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF34734-8C21-4BC6-9D8C-D75FA8525F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF34734-8C21-4BC6-9D8C-D75FA8525F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF34734-8C21-4BC6-9D8C-D75FA8525F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B106DEB1-0251-47F3-A9B8-EAB854F242F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B106DEB1-0251-47F3-A9B8-EAB854F242F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B106DEB1-0251-47F3-A9B8-EAB854F242F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B106DEB1-0251-47F3-A9B8-EAB854F242F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB19A36-D460-4DC3-90D8-6E18E22E4CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB19A36-D460-4DC3-90D8-6E18E22E4CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB19A36-D460-4DC3-90D8-6E18E22E4CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB19A36-D460-4DC3-90D8-6E18E22E4CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B106DEB1-0251-47F3-A9B8-EAB854F242F4} = {CBE49334-5945-4B41-A923-E3B441B96C40}
+		{DBB19A36-D460-4DC3-90D8-6E18E22E4CD1} = {CBE49334-5945-4B41-A923-E3B441B96C40}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13D3B183-50FC-4789-AE04-4532B4706906}
+	EndGlobalSection
+EndGlobal

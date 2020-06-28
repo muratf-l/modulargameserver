@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;DBPOSTGRE</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Reflect.Game.Ludo.Engine\Reflect.Game.Ludo.Engine.csproj" />
+    <ProjectReference Include="..\Reflect.GameServer.Data.Models\Reflect.GameServer.Data.Models.csproj" />
+    <ProjectReference Include="..\Reflect.GameServer.Database.Postgresql\Reflect.GameServer.Database.Postgresql.csproj" />
+    <ProjectReference Include="..\Reflect.GameServer.Library\Reflect.GameServer.Library.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings-dev.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="appsettings-pro.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

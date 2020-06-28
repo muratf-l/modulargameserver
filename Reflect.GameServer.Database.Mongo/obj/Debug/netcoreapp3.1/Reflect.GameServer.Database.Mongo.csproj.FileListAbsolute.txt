@@ -1,0 +1,12 @@
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\bin\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.deps.json
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\bin\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\bin\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.pdb
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\bin\Debug\netcoreapp3.1\Reflect.GameServer.Data.Models.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\bin\Debug\netcoreapp3.1\Reflect.GameServer.Data.Models.pdb
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.csprojAssemblyReference.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.AssemblyInfoInputs.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.AssemblyInfo.cs
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.csproj.CoreCompileInputs.cache
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.csproj.CopyComplete
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.dll
+D:\Projects\reflecth.games.board.ludo\dev_server\Reflect.GameServer.Database.Mongo\obj\Debug\netcoreapp3.1\Reflect.GameServer.Database.Mongo.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8NGybynBf5ByvdUlxFekuIsGn9bxPZt3f9b5gcOTm+YpC4DcKDp1l9XcBmxjreO0CJLqVf/1eHQqESoZXTJDOA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\_git\\modulargameserver\\Reflect.Game.Ludo.Engine\\Reflect.Game.Ludo.Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firat\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
